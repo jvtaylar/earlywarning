@@ -1,0 +1,361 @@
+Student_ID,Academic_Year,Semester,Course_Code,Course_Name,Section,Week_Number,Quiz_Average,Assignment_Average,Attendance_Rate,Activity_Completion_Rate,Login_Frequency,Predicted_Risk_Probability,Risk_Level,Recommended_Action
+STU0224,2025-2026,1st Semester,CPEM103,Integral Calculus,A,8,36.9,55.9,56.2,69.9,5,0.9991909637544244,High,Prioritize instructor outreach and individualized academic support
+STU0145,2025-2026,1st Semester,CPEM103,Integral Calculus,D,8,47.7,51.4,57.1,50.6,4,0.9989572757836632,High,Prioritize instructor outreach and individualized academic support
+STU0237,2025-2026,1st Semester,CPEM103,Integral Calculus,D,8,34.9,43.0,68.8,61.6,3,0.9986346841709094,High,Prioritize instructor outreach and individualized academic support
+STU0334,2025-2026,1st Semester,CPEM101,Pre-Calculus,B,8,43.9,37.4,57.1,65.1,2,0.9979713887899442,High,Prioritize instructor outreach and individualized academic support
+STU0294,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,39.8,35.6,50.0,76.9,4,0.9968369461994475,High,Prioritize instructor outreach and individualized academic support
+STU0145,2025-2026,2nd Semester,CPEM102,Differential Calculus,A,8,30.8,52.6,56.2,49.2,2,0.9960059338047029,High,Prioritize instructor outreach and individualized academic support
+STU0306,2025-2026,2nd Semester,CPEM102,Differential Calculus,C,8,37.6,48.1,71.4,53.7,3,0.99595422000873,High,Prioritize instructor outreach and individualized academic support
+STU0336,2025-2026,2nd Semester,CPEM101,Pre-Calculus,B,8,50.1,59.2,73.3,61.1,2,0.9934332591411456,High,Prioritize instructor outreach and individualized academic support
+STU0205,2025-2026,1st Semester,CPEM103,Integral Calculus,A,8,26.2,50.8,87.5,91.0,4,0.9932792681807182,High,Prioritize instructor outreach and individualized academic support
+STU0336,2025-2026,2nd Semester,CPEM102,Differential Calculus,C,8,51.0,61.1,71.4,83.0,4,0.9929098584006961,High,Prioritize instructor outreach and individualized academic support
+STU0278,2025-2026,1st Semester,CPEM103,Integral Calculus,C,8,41.6,63.5,85.7,64.7,1,0.9923819245548051,High,Prioritize instructor outreach and individualized academic support
+STU0231,2025-2026,1st Semester,CPEM101,Pre-Calculus,D,8,40.7,46.1,50.0,72.7,1,0.9899575913319735,High,Prioritize instructor outreach and individualized academic support
+STU0188,2025-2026,2nd Semester,CPEM101,Pre-Calculus,B,8,50.3,63.6,64.3,62.1,1,0.9895880700499797,High,Prioritize instructor outreach and individualized academic support
+STU0329,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,53.2,49.5,56.2,66.1,2,0.9891577963962329,High,Prioritize instructor outreach and individualized academic support
+STU0103,2025-2026,1st Semester,CPEM103,Integral Calculus,C,8,49.5,63.3,64.3,63.6,3,0.9890592697290627,High,Prioritize instructor outreach and individualized academic support
+STU0347,2025-2026,2nd Semester,CPEM102,Differential Calculus,B,8,53.5,43.1,93.3,54.9,1,0.9887381533556007,High,Prioritize instructor outreach and individualized academic support
+STU0270,2025-2026,1st Semester,CPEM103,Integral Calculus,B,8,40.0,55.0,78.6,54.7,1,0.9883726245274095,High,Prioritize instructor outreach and individualized academic support
+STU0231,2025-2026,1st Semester,CPEM103,Integral Calculus,D,8,36.6,53.7,73.3,64.5,1,0.9879668475684599,High,Prioritize instructor outreach and individualized academic support
+STU0188,2025-2026,1st Semester,CPEM101,Pre-Calculus,B,8,53.1,61.9,81.2,61.9,4,0.9873566127133182,High,Prioritize instructor outreach and individualized academic support
+STU0244,2025-2026,2nd Semester,CPEM101,Pre-Calculus,D,8,53.6,49.3,73.3,65.9,3,0.9864345763649089,High,Prioritize instructor outreach and individualized academic support
+STU0244,2025-2026,1st Semester,CPEM103,Integral Calculus,A,8,53.6,56.3,75.0,69.6,4,0.9852022311785991,High,Prioritize instructor outreach and individualized academic support
+STU0302,2025-2026,1st Semester,CPEM101,Pre-Calculus,D,8,38.1,58.6,93.3,68.1,3,0.9844521542344037,High,Prioritize instructor outreach and individualized academic support
+STU0336,2025-2026,1st Semester,CPEM102,Differential Calculus,D,8,35.5,61.7,53.3,50.3,3,0.984281368539008,High,Prioritize instructor outreach and individualized academic support
+STU0224,2025-2026,1st Semester,CPEM102,Differential Calculus,D,8,41.8,65.5,75.0,70.1,2,0.9831322453231922,High,Prioritize instructor outreach and individualized academic support
+STU0214,2025-2026,1st Semester,CPEM102,Differential Calculus,A,8,53.5,66.6,73.3,62.5,0,0.9819110340287928,High,Prioritize instructor outreach and individualized academic support
+STU0059,2025-2026,1st Semester,CPEM103,Integral Calculus,B,8,62.9,67.9,78.6,80.2,5,0.9805800027813851,High,Prioritize instructor outreach and individualized academic support
+STU0334,2025-2026,1st Semester,CPEM102,Differential Calculus,A,8,39.8,52.0,68.8,45.3,1,0.9802838596614778,High,Prioritize instructor outreach and individualized academic support
+STU0135,2025-2026,2nd Semester,CPEM101,Pre-Calculus,D,8,42.1,61.1,62.5,68.9,5,0.9769936307000179,High,Prioritize instructor outreach and individualized academic support
+STU0334,2025-2026,2nd Semester,CPEM102,Differential Calculus,D,8,55.1,65.5,64.3,81.1,2,0.9743769297605602,High,Prioritize instructor outreach and individualized academic support
+STU0174,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,51.6,54.9,85.7,88.7,7,0.9740197043402926,High,Prioritize instructor outreach and individualized academic support
+STU0278,2025-2026,1st Semester,CPEM101,Pre-Calculus,D,8,29.7,53.7,57.1,71.5,4,0.972087522350498,High,Prioritize instructor outreach and individualized academic support
+STU0107,2025-2026,1st Semester,CPEM103,Integral Calculus,A,8,42.8,48.5,81.2,83.2,5,0.9700474351691522,High,Prioritize instructor outreach and individualized academic support
+STU0161,2025-2026,1st Semester,CPEM102,Differential Calculus,C,8,63.7,62.8,62.5,56.1,7,0.968891158853035,High,Prioritize instructor outreach and individualized academic support
+STU0288,2025-2026,2nd Semester,CPEM103,Integral Calculus,D,8,62.1,62.9,60.0,53.9,1,0.9683212828715605,High,Prioritize instructor outreach and individualized academic support
+STU0129,2025-2026,2nd Semester,CPEM102,Differential Calculus,C,8,56.3,59.8,71.4,73.6,0,0.964574394186494,High,Prioritize instructor outreach and individualized academic support
+STU0294,2025-2026,2nd Semester,CPEM101,Pre-Calculus,C,8,34.5,60.8,81.2,52.3,2,0.9628230324826392,High,Prioritize instructor outreach and individualized academic support
+STU0100,2025-2026,1st Semester,CPEM103,Integral Calculus,A,8,54.6,59.4,78.6,89.3,5,0.9567252176501762,High,Prioritize instructor outreach and individualized academic support
+STU0074,2025-2026,1st Semester,CPEM102,Differential Calculus,D,8,53.9,68.2,87.5,58.2,3,0.9549668523110316,High,Prioritize instructor outreach and individualized academic support
+STU0005,2025-2026,2nd Semester,CPEM101,Pre-Calculus,B,8,58.0,60.3,93.3,77.6,4,0.9536885031632467,High,Prioritize instructor outreach and individualized academic support
+STU0152,2025-2026,1st Semester,CPEM102,Differential Calculus,A,8,58.4,54.6,78.6,79.8,3,0.9532167966998597,High,Prioritize instructor outreach and individualized academic support
+STU0135,2025-2026,1st Semester,CPEM102,Differential Calculus,C,8,57.2,75.3,71.4,64.6,3,0.9492632902537348,High,Prioritize instructor outreach and individualized academic support
+STU0146,2025-2026,2nd Semester,CPEM101,Pre-Calculus,B,8,54.6,76.4,81.2,84.9,4,0.9489472265931902,High,Prioritize instructor outreach and individualized academic support
+STU0052,2025-2026,1st Semester,CPEM103,Integral Calculus,B,8,60.8,56.8,92.9,53.1,1,0.9472216238271012,High,Prioritize instructor outreach and individualized academic support
+STU0025,2025-2026,1st Semester,CPEM103,Integral Calculus,C,8,49.1,59.5,81.2,54.0,7,0.9429721172649311,High,Prioritize instructor outreach and individualized academic support
+STU0278,2025-2026,2nd Semester,CPEM102,Differential Calculus,D,8,44.5,61.6,81.2,68.3,2,0.9400245949188349,High,Prioritize instructor outreach and individualized academic support
+STU0196,2025-2026,2nd Semester,CPEM103,Integral Calculus,A,8,47.4,62.3,71.4,76.1,3,0.9399655173078989,High,Prioritize instructor outreach and individualized academic support
+STU0132,2025-2026,1st Semester,CPEM102,Differential Calculus,C,8,52.9,55.1,87.5,75.7,6,0.9384549354590022,High,Prioritize instructor outreach and individualized academic support
+STU0329,2025-2026,1st Semester,CPEM102,Differential Calculus,C,8,61.2,58.7,68.8,81.5,3,0.9375305507385682,High,Prioritize instructor outreach and individualized academic support
+STU0049,2025-2026,1st Semester,CPEM103,Integral Calculus,C,8,61.2,57.6,75.0,74.5,0,0.9362313796752555,High,Prioritize instructor outreach and individualized academic support
+STU0285,2025-2026,1st Semester,CPEM102,Differential Calculus,B,8,48.6,60.4,78.6,63.4,3,0.9343750093605594,High,Prioritize instructor outreach and individualized academic support
+STU0113,2025-2026,1st Semester,CPEM102,Differential Calculus,C,8,58.8,61.8,78.6,86.4,3,0.934310092546409,High,Prioritize instructor outreach and individualized academic support
+STU0246,2025-2026,2nd Semester,CPEM102,Differential Calculus,C,8,51.4,63.8,85.7,88.7,5,0.9327293835439434,High,Prioritize instructor outreach and individualized academic support
+STU0008,2025-2026,1st Semester,CPEM103,Integral Calculus,D,8,42.5,65.0,71.4,70.1,5,0.9306413151183541,High,Prioritize instructor outreach and individualized academic support
+STU0353,2025-2026,2nd Semester,CPEM101,Pre-Calculus,A,8,54.0,57.9,85.7,66.4,3,0.9301023177546119,High,Prioritize instructor outreach and individualized academic support
+STU0144,2025-2026,1st Semester,CPEM103,Integral Calculus,B,8,49.4,64.6,92.9,71.6,5,0.9300816803291192,High,Prioritize instructor outreach and individualized academic support
+STU0082,2025-2026,1st Semester,CPEM102,Differential Calculus,A,8,43.2,44.2,100.0,82.4,2,0.9295264828843772,High,Prioritize instructor outreach and individualized academic support
+STU0098,2025-2026,2nd Semester,CPEM103,Integral Calculus,C,8,58.6,51.1,78.6,57.5,1,0.9281164129328431,High,Prioritize instructor outreach and individualized academic support
+STU0123,2025-2026,2nd Semester,CPEM102,Differential Calculus,B,8,57.3,76.0,57.1,69.0,3,0.9273159030016865,High,Prioritize instructor outreach and individualized academic support
+STU0152,2025-2026,2nd Semester,CPEM102,Differential Calculus,A,8,55.9,68.7,78.6,79.6,5,0.9259876969043911,High,Prioritize instructor outreach and individualized academic support
+STU0153,2025-2026,2nd Semester,CPEM101,Pre-Calculus,D,8,52.2,71.9,92.9,78.1,5,0.9253892316257466,High,Prioritize instructor outreach and individualized academic support
+STU0205,2025-2026,1st Semester,CPEM101,Pre-Calculus,D,8,55.1,53.4,85.7,96.2,2,0.9217636226536468,High,Prioritize instructor outreach and individualized academic support
+STU0220,2025-2026,1st Semester,CPEM101,Pre-Calculus,A,8,59.8,68.6,85.7,86.6,6,0.9183391380663019,High,Prioritize instructor outreach and individualized academic support
+STU0024,2025-2026,1st Semester,CPEM101,Pre-Calculus,C,8,53.0,79.5,85.7,94.0,1,0.9046895813876906,High,Prioritize instructor outreach and individualized academic support
+STU0198,2025-2026,1st Semester,CPEM102,Differential Calculus,A,8,55.5,59.9,68.8,61.3,4,0.9046315139156091,High,Prioritize instructor outreach and individualized academic support
+STU0199,2025-2026,1st Semester,CPEM103,Integral Calculus,B,8,56.6,64.7,78.6,88.8,1,0.9034145351844397,High,Prioritize instructor outreach and individualized academic support
+STU0277,2025-2026,2nd Semester,CPEM103,Integral Calculus,A,8,61.6,63.4,87.5,98.5,4,0.8988997225611793,High,Prioritize instructor outreach and individualized academic support
+STU0024,2025-2026,2nd Semester,CPEM102,Differential Calculus,B,8,60.5,64.0,93.8,54.0,3,0.8941994420307082,High,Prioritize instructor outreach and individualized academic support
+STU0353,2025-2026,2nd Semester,CPEM103,Integral Calculus,A,8,62.1,82.3,73.3,69.4,7,0.893060844706553,High,Prioritize instructor outreach and individualized academic support
+STU0286,2025-2026,1st Semester,CPEM102,Differential Calculus,D,8,51.8,67.5,75.0,84.6,10,0.8907520970285846,High,Prioritize instructor outreach and individualized academic support
+STU0144,2025-2026,1st Semester,CPEM102,Differential Calculus,B,8,55.8,64.9,64.3,91.7,1,0.8879035614521195,High,Prioritize instructor outreach and individualized academic support
+STU0273,2025-2026,2nd Semester,CPEM103,Integral Calculus,D,8,61.0,63.9,92.9,62.3,4,0.8871199140176775,High,Prioritize instructor outreach and individualized academic support
+STU0142,2025-2026,1st Semester,CPEM103,Integral Calculus,A,8,60.3,74.0,85.7,96.9,6,0.8869701693269765,High,Prioritize instructor outreach and individualized academic support
+STU0038,2025-2026,2nd Semester,CPEM102,Differential Calculus,A,8,49.1,68.7,92.9,76.1,2,0.886362758637882,High,Prioritize instructor outreach and individualized academic support
+STU0146,2025-2026,1st Semester,CPEM101,Pre-Calculus,B,8,62.3,70.7,78.6,94.3,2,0.8863001690483379,High,Prioritize instructor outreach and individualized academic support
+STU0303,2025-2026,2nd Semester,CPEM102,Differential Calculus,D,8,68.3,63.7,86.7,75.6,3,0.8801717870387646,High,Prioritize instructor outreach and individualized academic support
+STU0288,2025-2026,1st Semester,CPEM101,Pre-Calculus,A,8,66.3,60.6,53.3,51.0,3,0.8801387451125561,High,Prioritize instructor outreach and individualized academic support
+STU0103,2025-2026,1st Semester,CPEM102,Differential Calculus,A,8,58.4,64.5,75.0,71.0,5,0.8737910240149699,High,Prioritize instructor outreach and individualized academic support
+STU0277,2025-2026,1st Semester,CPEM103,Integral Calculus,A,8,58.4,64.5,81.2,90.8,6,0.8657989939960073,High,Prioritize instructor outreach and individualized academic support
+STU0189,2025-2026,2nd Semester,CPEM103,Integral Calculus,D,8,40.5,67.3,75.0,80.3,5,0.8650892015908118,High,Prioritize instructor outreach and individualized academic support
+STU0146,2025-2026,2nd Semester,CPEM103,Integral Calculus,C,8,52.9,52.1,75.0,87.1,4,0.857777005236982,High,Prioritize instructor outreach and individualized academic support
+STU0010,2025-2026,2nd Semester,CPEM102,Differential Calculus,A,8,65.3,57.3,100.0,84.2,2,0.8569985266535609,High,Prioritize instructor outreach and individualized academic support
+STU0137,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,45.4,70.6,75.0,60.9,2,0.8563337055537797,High,Prioritize instructor outreach and individualized academic support
+STU0038,2025-2026,2nd Semester,CPEM103,Integral Calculus,C,8,51.9,61.5,86.7,71.4,7,0.8426153577066454,High,Prioritize instructor outreach and individualized academic support
+STU0341,2025-2026,2nd Semester,CPEM101,Pre-Calculus,C,8,37.8,74.8,100.0,98.6,4,0.8419972106709291,High,Prioritize instructor outreach and individualized academic support
+STU0285,2025-2026,2nd Semester,CPEM101,Pre-Calculus,C,8,55.2,45.4,93.3,91.0,5,0.8393053934185529,High,Prioritize instructor outreach and individualized academic support
+STU0107,2025-2026,2nd Semester,CPEM102,Differential Calculus,B,8,46.1,62.7,75.0,78.3,2,0.8260291452023301,High,Prioritize instructor outreach and individualized academic support
+STU0229,2025-2026,2nd Semester,CPEM102,Differential Calculus,D,8,61.5,80.3,85.7,99.3,9,0.8249455752960047,High,Prioritize instructor outreach and individualized academic support
+STU0181,2025-2026,1st Semester,CPEM103,Integral Calculus,C,8,60.2,80.3,75.0,80.2,2,0.8172601836218347,High,Prioritize instructor outreach and individualized academic support
+STU0329,2025-2026,1st Semester,CPEM101,Pre-Calculus,A,8,59.8,64.6,71.4,74.8,7,0.8157533905085501,High,Prioritize instructor outreach and individualized academic support
+STU0278,2025-2026,1st Semester,CPEM102,Differential Calculus,B,8,41.8,63.5,78.6,68.6,4,0.81152305956281,High,Prioritize instructor outreach and individualized academic support
+STU0250,2025-2026,2nd Semester,CPEM102,Differential Calculus,C,8,69.2,69.0,85.7,76.9,9,0.8083816510903032,High,Prioritize instructor outreach and individualized academic support
+STU0238,2025-2026,2nd Semester,CPEM101,Pre-Calculus,B,8,62.5,64.4,93.8,84.1,9,0.80488866768791,High,Prioritize instructor outreach and individualized academic support
+STU0198,2025-2026,2nd Semester,CPEM103,Integral Calculus,A,8,66.5,70.4,64.3,79.6,3,0.7960877204746523,High,Prioritize instructor outreach and individualized academic support
+STU0269,2025-2026,1st Semester,CPEM101,Pre-Calculus,A,8,60.4,70.3,85.7,72.8,5,0.7952396234300324,High,Prioritize instructor outreach and individualized academic support
+STU0314,2025-2026,1st Semester,CPEM102,Differential Calculus,C,8,57.8,61.0,86.7,78.1,4,0.7943849537720167,High,Prioritize instructor outreach and individualized academic support
+STU0061,2025-2026,2nd Semester,CPEM101,Pre-Calculus,D,8,64.6,53.2,85.7,84.1,9,0.7927271827867595,High,Prioritize instructor outreach and individualized academic support
+STU0010,2025-2026,1st Semester,CPEM102,Differential Calculus,B,8,51.7,53.5,92.9,100.0,5,0.7920734038210594,High,Prioritize instructor outreach and individualized academic support
+STU0236,2025-2026,1st Semester,CPEM102,Differential Calculus,A,8,65.3,66.9,87.5,78.5,5,0.786351923991829,High,Prioritize instructor outreach and individualized academic support
+STU0074,2025-2026,1st Semester,CPEM103,Integral Calculus,D,8,43.6,66.1,68.8,70.0,5,0.7824008058641997,High,Prioritize instructor outreach and individualized academic support
+STU0007,2025-2026,1st Semester,CPEM101,Pre-Calculus,B,8,61.0,55.0,100.0,73.1,2,0.7794459346846688,High,Prioritize instructor outreach and individualized academic support
+STU0162,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,57.0,58.3,68.8,87.0,2,0.7783138382765485,High,Prioritize instructor outreach and individualized academic support
+STU0160,2025-2026,1st Semester,CPEM103,Integral Calculus,C,8,58.6,66.7,100.0,100.0,10,0.769901272830592,High,Prioritize instructor outreach and individualized academic support
+STU0037,2025-2026,1st Semester,CPEM103,Integral Calculus,C,8,61.2,76.5,92.9,86.8,7,0.7654691088685975,High,Prioritize instructor outreach and individualized academic support
+STU0033,2025-2026,2nd Semester,CPEM101,Pre-Calculus,D,8,58.7,74.6,75.0,78.5,1,0.7621987350561583,High,Prioritize instructor outreach and individualized academic support
+STU0049,2025-2026,1st Semester,CPEM101,Pre-Calculus,A,8,74.2,65.7,87.5,47.1,2,0.759668018522792,High,Prioritize instructor outreach and individualized academic support
+STU0335,2025-2026,1st Semester,CPEM101,Pre-Calculus,D,8,57.0,58.6,93.8,83.2,4,0.7593408679696769,High,Prioritize instructor outreach and individualized academic support
+STU0154,2025-2026,2nd Semester,CPEM102,Differential Calculus,C,8,61.9,70.9,92.9,67.4,3,0.7561704420981396,High,Prioritize instructor outreach and individualized academic support
+STU0129,2025-2026,2nd Semester,CPEM101,Pre-Calculus,A,8,64.1,62.6,87.5,72.9,4,0.7533185108968076,High,Prioritize instructor outreach and individualized academic support
+STU0304,2025-2026,1st Semester,CPEM101,Pre-Calculus,D,8,63.2,60.7,87.5,65.9,3,0.7527704366439387,High,Prioritize instructor outreach and individualized academic support
+STU0360,2025-2026,2nd Semester,CPEM101,Pre-Calculus,C,8,70.2,52.9,100.0,76.8,3,0.7495380555229078,High,Prioritize instructor outreach and individualized academic support
+STU0146,2025-2026,1st Semester,CPEM103,Integral Calculus,C,8,50.3,60.1,87.5,88.0,3,0.7488270838172515,High,Prioritize instructor outreach and individualized academic support
+STU0001,2025-2026,2nd Semester,CPEM102,Differential Calculus,A,8,76.4,80.0,85.7,84.7,5,0.7465309934287923,High,Prioritize instructor outreach and individualized academic support
+STU0187,2025-2026,1st Semester,CPEM103,Integral Calculus,D,8,70.7,63.0,93.3,85.6,2,0.7441497962304401,High,Prioritize instructor outreach and individualized academic support
+STU0129,2025-2026,1st Semester,CPEM101,Pre-Calculus,A,8,52.7,72.9,75.0,94.8,5,0.7389729878222326,High,Prioritize instructor outreach and individualized academic support
+STU0022,2025-2026,1st Semester,CPEM101,Pre-Calculus,D,8,66.4,66.9,100.0,87.7,5,0.7358076722653917,High,Prioritize instructor outreach and individualized academic support
+STU0267,2025-2026,2nd Semester,CPEM103,Integral Calculus,C,8,61.1,60.0,93.8,73.9,7,0.7324176476327618,High,Prioritize instructor outreach and individualized academic support
+STU0129,2025-2026,1st Semester,CPEM102,Differential Calculus,D,8,70.4,59.3,85.7,70.5,5,0.7229226358750426,High,Prioritize instructor outreach and individualized academic support
+STU0211,2025-2026,1st Semester,CPEM103,Integral Calculus,D,8,75.6,77.9,85.7,70.7,1,0.715387846276492,High,Prioritize instructor outreach and individualized academic support
+STU0101,2025-2026,1st Semester,CPEM102,Differential Calculus,C,8,52.0,64.8,93.8,82.1,6,0.7151491159703405,High,Prioritize instructor outreach and individualized academic support
+STU0192,2025-2026,1st Semester,CPEM103,Integral Calculus,A,8,69.7,78.4,93.3,76.2,11,0.710463599218026,High,Prioritize instructor outreach and individualized academic support
+STU0142,2025-2026,2nd Semester,CPEM102,Differential Calculus,D,8,59.0,81.9,85.7,90.7,11,0.7008936425392203,High,Prioritize instructor outreach and individualized academic support
+STU0061,2025-2026,1st Semester,CPEM101,Pre-Calculus,B,8,68.7,65.0,92.9,77.2,5,0.6954156390048606,High,Prioritize instructor outreach and individualized academic support
+STU0222,2025-2026,1st Semester,CPEM102,Differential Calculus,B,8,51.7,76.4,87.5,85.0,1,0.686610656277315,High,Prioritize instructor outreach and individualized academic support
+STU0046,2025-2026,1st Semester,CPEM103,Integral Calculus,A,8,62.0,67.5,92.9,80.7,5,0.6693078373471922,High,Prioritize instructor outreach and individualized academic support
+STU0166,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,43.7,39.0,75.0,91.0,2,0.6683223310026536,High,Prioritize instructor outreach and individualized academic support
+STU0273,2025-2026,1st Semester,CPEM103,Integral Calculus,C,8,71.2,70.9,80.0,95.4,7,0.6631281031431011,High,Prioritize instructor outreach and individualized academic support
+STU0304,2025-2026,1st Semester,CPEM102,Differential Calculus,A,8,63.6,69.4,75.0,84.0,4,0.6589275730919487,High,Prioritize instructor outreach and individualized academic support
+STU0118,2025-2026,2nd Semester,CPEM102,Differential Calculus,D,8,73.2,70.0,71.4,79.1,4,0.6500331338159637,High,Prioritize instructor outreach and individualized academic support
+STU0216,2025-2026,1st Semester,CPEM102,Differential Calculus,A,8,77.2,56.7,75.0,56.8,2,0.6499807464024634,High,Prioritize instructor outreach and individualized academic support
+STU0296,2025-2026,1st Semester,CPEM102,Differential Calculus,C,8,78.9,64.4,92.9,90.3,5,0.6451899246207057,High,Prioritize instructor outreach and individualized academic support
+STU0101,2025-2026,2nd Semester,CPEM101,Pre-Calculus,A,8,74.1,82.7,75.0,99.2,6,0.6427978831148631,High,Prioritize instructor outreach and individualized academic support
+STU0299,2025-2026,2nd Semester,CPEM101,Pre-Calculus,D,8,52.5,84.3,87.5,100.0,3,0.6427901164367044,High,Prioritize instructor outreach and individualized academic support
+STU0204,2025-2026,1st Semester,CPEM101,Pre-Calculus,C,8,75.7,63.3,81.2,59.4,8,0.6398234514658019,High,Prioritize instructor outreach and individualized academic support
+STU0081,2025-2026,2nd Semester,CPEM102,Differential Calculus,C,8,55.4,76.8,87.5,78.0,6,0.6395231983222301,High,Prioritize instructor outreach and individualized academic support
+STU0298,2025-2026,2nd Semester,CPEM103,Integral Calculus,A,8,53.6,61.4,93.3,87.4,5,0.6364221660476916,High,Prioritize instructor outreach and individualized academic support
+STU0055,2025-2026,2nd Semester,CPEM101,Pre-Calculus,B,8,67.0,69.9,85.7,94.2,2,0.6346475282494212,High,Prioritize instructor outreach and individualized academic support
+STU0250,2025-2026,1st Semester,CPEM101,Pre-Calculus,D,8,61.0,69.9,75.0,86.9,7,0.6294533650103739,High,Prioritize instructor outreach and individualized academic support
+STU0114,2025-2026,1st Semester,CPEM101,Pre-Calculus,C,8,46.2,50.8,100.0,91.3,2,0.6290739708434095,High,Prioritize instructor outreach and individualized academic support
+STU0164,2025-2026,2nd Semester,CPEM101,Pre-Calculus,C,8,62.5,68.4,85.7,92.5,9,0.6162315897053044,High,Prioritize instructor outreach and individualized academic support
+STU0199,2025-2026,1st Semester,CPEM101,Pre-Calculus,A,8,76.1,71.5,87.5,49.2,2,0.6151428718829312,High,Prioritize instructor outreach and individualized academic support
+STU0254,2025-2026,2nd Semester,CPEM101,Pre-Calculus,B,8,55.3,66.1,100.0,100.0,5,0.6127127454482268,High,Prioritize instructor outreach and individualized academic support
+STU0193,2025-2026,1st Semester,CPEM102,Differential Calculus,C,8,70.5,62.2,93.8,98.0,5,0.5874213897146008,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0171,2025-2026,2nd Semester,CPEM101,Pre-Calculus,B,8,73.3,75.8,75.0,92.0,4,0.5840270201125691,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0046,2025-2026,2nd Semester,CPEM101,Pre-Calculus,B,8,71.9,81.7,71.4,61.9,3,0.5809826422467539,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0070,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,58.8,65.4,85.7,94.8,5,0.5778346988091057,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0157,2025-2026,2nd Semester,CPEM102,Differential Calculus,B,8,72.7,67.3,85.7,89.6,8,0.5752789108366221,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0084,2025-2026,1st Semester,CPEM103,Integral Calculus,C,8,68.4,77.8,100.0,93.6,4,0.5657893392102449,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0256,2025-2026,2nd Semester,CPEM103,Integral Calculus,D,8,72.8,73.6,85.7,80.9,2,0.5639528398842335,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0341,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,56.5,48.7,87.5,97.8,5,0.5603034982381957,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0258,2025-2026,1st Semester,CPEM101,Pre-Calculus,A,8,63.6,74.3,92.9,76.5,7,0.5558550937664632,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0134,2025-2026,2nd Semester,CPEM103,Integral Calculus,A,8,58.8,66.6,92.9,93.1,9,0.5505934081585742,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0166,2025-2026,1st Semester,CPEM101,Pre-Calculus,A,8,62.0,76.8,92.9,95.7,5,0.5499505664899952,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0347,2025-2026,1st Semester,CPEM101,Pre-Calculus,D,8,67.1,71.4,85.7,83.3,5,0.5477950602501561,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0254,2025-2026,1st Semester,CPEM102,Differential Calculus,C,8,69.0,62.1,80.0,100.0,9,0.5417966013650406,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0342,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,67.5,68.7,93.3,84.0,2,0.536341761900157,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0172,2025-2026,1st Semester,CPEM102,Differential Calculus,D,8,66.5,82.7,93.8,78.5,2,0.5341459640713457,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0149,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,76.5,84.4,81.2,90.5,5,0.5254123871296396,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0131,2025-2026,1st Semester,CPEM103,Integral Calculus,A,8,71.8,73.1,100.0,90.1,8,0.5188737410062058,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0189,2025-2026,2nd Semester,CPEM101,Pre-Calculus,A,8,56.9,78.1,93.8,100.0,4,0.5171422039983853,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0206,2025-2026,2nd Semester,CPEM103,Integral Calculus,D,8,77.3,70.1,85.7,75.9,7,0.5142454055536112,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0072,2025-2026,1st Semester,CPEM102,Differential Calculus,D,8,72.1,78.0,92.9,100.0,3,0.511308741780672,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0082,2025-2026,2nd Semester,CPEM102,Differential Calculus,A,8,65.2,74.0,80.0,92.7,9,0.49027962183755136,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0326,2025-2026,1st Semester,CPEM102,Differential Calculus,C,8,65.1,85.4,75.0,77.5,2,0.47687337300000404,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0055,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,79.2,64.5,86.7,82.3,2,0.4717776808707977,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0271,2025-2026,1st Semester,CPEM103,Integral Calculus,C,8,72.6,72.9,85.7,100.0,4,0.4698954684915341,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0256,2025-2026,1st Semester,CPEM101,Pre-Calculus,D,8,62.3,73.4,93.8,77.4,2,0.463075767372033,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0332,2025-2026,1st Semester,CPEM103,Integral Calculus,B,8,66.1,65.2,75.0,83.2,4,0.4627033101790063,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0072,2025-2026,2nd Semester,CPEM101,Pre-Calculus,B,8,73.1,71.2,78.6,79.1,3,0.4592324381599385,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0113,2025-2026,2nd Semester,CPEM102,Differential Calculus,B,8,54.9,73.0,78.6,80.3,2,0.4586683694104885,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0284,2025-2026,2nd Semester,CPEM103,Integral Calculus,A,8,69.3,67.5,87.5,91.8,9,0.45537557602468715,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0181,2025-2026,2nd Semester,CPEM102,Differential Calculus,C,8,67.6,79.3,66.7,70.3,2,0.4461749611933491,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0255,2025-2026,2nd Semester,CPEM102,Differential Calculus,B,8,59.1,72.7,93.3,81.7,3,0.44550768995310036,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0296,2025-2026,1st Semester,CPEM103,Integral Calculus,B,8,58.6,75.7,93.8,82.7,4,0.44429429613460897,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0139,2025-2026,1st Semester,CPEM103,Integral Calculus,A,8,70.8,74.5,100.0,58.4,0,0.4370937687793436,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0357,2025-2026,2nd Semester,CPEM101,Pre-Calculus,D,8,63.3,78.6,100.0,88.3,4,0.43173817970140566,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0092,2025-2026,1st Semester,CPEM102,Differential Calculus,B,8,74.9,72.3,87.5,86.4,3,0.4305900175483336,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0154,2025-2026,1st Semester,CPEM101,Pre-Calculus,D,8,79.2,78.6,92.9,90.5,3,0.42650238523059686,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0186,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,75.3,70.7,93.3,76.8,9,0.42371915864675297,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0133,2025-2026,1st Semester,CPEM103,Integral Calculus,A,8,76.5,61.7,85.7,89.6,3,0.4214730144168612,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0008,2025-2026,1st Semester,CPEM102,Differential Calculus,C,8,62.5,75.3,85.7,85.5,6,0.41361820778434605,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0220,2025-2026,2nd Semester,CPEM101,Pre-Calculus,A,8,59.1,69.0,87.5,89.0,4,0.4104136291486075,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0189,2025-2026,1st Semester,CPEM101,Pre-Calculus,A,8,73.6,64.5,93.3,95.1,8,0.39217108331584505,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0063,2025-2026,1st Semester,CPEM103,Integral Calculus,C,8,69.9,66.8,81.2,87.0,2,0.38802630751475875,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0108,2025-2026,2nd Semester,CPEM103,Integral Calculus,C,8,62.9,74.4,93.8,100.0,5,0.38660013028207485,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0076,2025-2026,2nd Semester,CPEM101,Pre-Calculus,C,8,81.7,69.7,87.5,60.1,3,0.3829201546912133,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0063,2025-2026,1st Semester,CPEM102,Differential Calculus,A,8,79.5,71.7,81.2,88.7,8,0.3731967526353645,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0267,2025-2026,2nd Semester,CPEM102,Differential Calculus,B,8,66.2,79.7,81.2,100.0,5,0.36816357504912595,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0042,2025-2026,1st Semester,CPEM103,Integral Calculus,C,8,65.7,69.5,87.5,96.9,7,0.3641805940925976,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0027,2025-2026,2nd Semester,CPEM102,Differential Calculus,B,8,55.7,69.9,100.0,78.8,3,0.36224739001547707,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0020,2025-2026,2nd Semester,CPEM103,Integral Calculus,C,8,80.9,61.2,87.5,80.8,1,0.35483470274580875,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0102,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,64.4,76.3,100.0,83.4,2,0.34392369780546406,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0070,2025-2026,1st Semester,CPEM101,Pre-Calculus,A,8,69.6,77.4,85.7,99.7,7,0.3387976640298379,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0322,2025-2026,1st Semester,CPEM101,Pre-Calculus,C,8,61.9,80.7,86.7,100.0,5,0.3302938819784514,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0232,2025-2026,2nd Semester,CPEM103,Integral Calculus,C,8,64.7,66.7,93.8,92.4,7,0.3295320622426178,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0260,2025-2026,2nd Semester,CPEM101,Pre-Calculus,A,8,66.0,63.9,100.0,100.0,5,0.32587106661191884,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0196,2025-2026,2nd Semester,CPEM101,Pre-Calculus,A,8,64.8,72.2,87.5,77.2,3,0.3223505451055171,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0274,2025-2026,1st Semester,CPEM103,Integral Calculus,A,8,78.6,72.6,92.9,77.7,2,0.3152040693883254,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0063,2025-2026,1st Semester,CPEM101,Pre-Calculus,A,8,67.7,73.2,100.0,76.1,1,0.3122662897383305,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0094,2025-2026,1st Semester,CPEM102,Differential Calculus,D,8,82.4,79.4,100.0,100.0,3,0.30743120519762474,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0176,2025-2026,1st Semester,CPEM102,Differential Calculus,D,8,64.5,70.3,93.3,100.0,7,0.30690985632769446,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0034,2025-2026,1st Semester,CPEM101,Pre-Calculus,B,8,56.5,68.1,93.8,100.0,5,0.3055438798213498,Moderate,Instructor check-in; review missing work and recent quiz results
+STU0314,2025-2026,1st Semester,CPEM101,Pre-Calculus,C,8,62.9,83.8,75.0,82.8,3,0.2888536171059747,Low,Continue routine monitoring
+STU0261,2025-2026,2nd Semester,CPEM102,Differential Calculus,B,8,72.6,71.6,93.8,79.7,8,0.2807964498009094,Low,Continue routine monitoring
+STU0125,2025-2026,1st Semester,CPEM103,Integral Calculus,A,8,66.5,76.3,85.7,69.3,9,0.27952050110066207,Low,Continue routine monitoring
+STU0045,2025-2026,1st Semester,CPEM103,Integral Calculus,D,8,69.4,71.7,93.8,100.0,5,0.2782173386683338,Low,Continue routine monitoring
+STU0066,2025-2026,1st Semester,CPEM102,Differential Calculus,A,8,68.2,76.2,100.0,68.0,3,0.2759423020239718,Low,Continue routine monitoring
+STU0066,2025-2026,2nd Semester,CPEM103,Integral Calculus,A,8,60.9,86.0,85.7,76.9,6,0.271675581462679,Low,Continue routine monitoring
+STU0263,2025-2026,2nd Semester,CPEM101,Pre-Calculus,D,8,72.2,82.8,87.5,100.0,5,0.2675176229765978,Low,Continue routine monitoring
+STU0273,2025-2026,2nd Semester,CPEM102,Differential Calculus,D,8,70.9,82.6,85.7,84.6,5,0.2659665423524015,Low,Continue routine monitoring
+STU0332,2025-2026,2nd Semester,CPEM101,Pre-Calculus,C,8,70.0,77.8,86.7,100.0,6,0.2656496442875743,Low,Continue routine monitoring
+STU0102,2025-2026,1st Semester,CPEM102,Differential Calculus,B,8,84.3,69.5,85.7,97.6,4,0.2640742601093037,Low,Continue routine monitoring
+STU0312,2025-2026,1st Semester,CPEM101,Pre-Calculus,B,8,70.6,72.1,85.7,85.8,6,0.25518703145998833,Low,Continue routine monitoring
+STU0126,2025-2026,2nd Semester,CPEM102,Differential Calculus,B,8,78.8,72.3,78.6,93.6,6,0.2535451554580808,Low,Continue routine monitoring
+STU0115,2025-2026,1st Semester,CPEM102,Differential Calculus,C,8,69.1,74.6,81.2,94.4,13,0.23982828329119626,Low,Continue routine monitoring
+STU0324,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,69.2,78.4,100.0,66.7,1,0.23863467945562167,Low,Continue routine monitoring
+STU0351,2025-2026,1st Semester,CPEM102,Differential Calculus,B,8,71.2,85.3,92.9,97.2,6,0.2361995926292609,Low,Continue routine monitoring
+STU0138,2025-2026,1st Semester,CPEM103,Integral Calculus,C,8,81.9,61.7,100.0,83.6,7,0.23569337618755046,Low,Continue routine monitoring
+STU0063,2025-2026,2nd Semester,CPEM103,Integral Calculus,D,8,57.3,71.9,87.5,90.3,2,0.2347763315135162,Low,Continue routine monitoring
+STU0301,2025-2026,1st Semester,CPEM103,Integral Calculus,A,8,80.1,81.7,85.7,75.6,7,0.23345338014066278,Low,Continue routine monitoring
+STU0296,2025-2026,2nd Semester,CPEM103,Integral Calculus,A,8,53.9,66.6,100.0,84.4,3,0.22959764819482517,Low,Continue routine monitoring
+STU0134,2025-2026,1st Semester,CPEM101,Pre-Calculus,C,8,76.9,76.6,100.0,91.6,8,0.22911338788657973,Low,Continue routine monitoring
+STU0168,2025-2026,1st Semester,CPEM103,Integral Calculus,C,8,76.8,74.1,85.7,100.0,6,0.22891682069129138,Low,Continue routine monitoring
+STU0013,2025-2026,1st Semester,CPEM103,Integral Calculus,D,8,85.3,77.9,100.0,84.4,8,0.22520803031278555,Low,Continue routine monitoring
+STU0309,2025-2026,2nd Semester,CPEM102,Differential Calculus,B,8,84.1,81.8,87.5,72.6,5,0.2248759288974951,Low,Continue routine monitoring
+STU0289,2025-2026,2nd Semester,CPEM101,Pre-Calculus,A,8,68.3,76.3,93.3,81.4,4,0.21768165383514199,Low,Continue routine monitoring
+STU0296,2025-2026,2nd Semester,CPEM102,Differential Calculus,D,8,72.0,75.7,93.8,86.6,2,0.2156397529458655,Low,Continue routine monitoring
+STU0292,2025-2026,2nd Semester,CPEM103,Integral Calculus,C,8,56.1,68.7,93.8,88.2,4,0.21548506994943842,Low,Continue routine monitoring
+STU0271,2025-2026,2nd Semester,CPEM102,Differential Calculus,D,8,72.7,62.4,100.0,100.0,14,0.21033094498942212,Low,Continue routine monitoring
+STU0040,2025-2026,2nd Semester,CPEM103,Integral Calculus,A,8,78.1,75.7,87.5,98.7,4,0.2086034000238538,Low,Continue routine monitoring
+STU0057,2025-2026,2nd Semester,CPEM103,Integral Calculus,C,8,70.9,61.3,100.0,96.9,9,0.20391493630507854,Low,Continue routine monitoring
+STU0045,2025-2026,2nd Semester,CPEM101,Pre-Calculus,D,8,78.6,73.0,100.0,89.2,8,0.20239278572283592,Low,Continue routine monitoring
+STU0213,2025-2026,1st Semester,CPEM101,Pre-Calculus,B,8,74.6,76.3,81.2,75.1,5,0.20172676282319527,Low,Continue routine monitoring
+STU0287,2025-2026,2nd Semester,CPEM102,Differential Calculus,A,8,77.6,71.4,93.3,87.5,6,0.19986986031322845,Low,Continue routine monitoring
+STU0099,2025-2026,2nd Semester,CPEM102,Differential Calculus,A,8,73.2,66.9,85.7,86.6,2,0.19693451119045222,Low,Continue routine monitoring
+STU0301,2025-2026,2nd Semester,CPEM101,Pre-Calculus,C,8,61.9,76.5,86.7,67.8,3,0.19513248842701506,Low,Continue routine monitoring
+STU0011,2025-2026,2nd Semester,CPEM102,Differential Calculus,D,8,66.6,76.7,85.7,100.0,5,0.19302809394001252,Low,Continue routine monitoring
+STU0108,2025-2026,1st Semester,CPEM102,Differential Calculus,A,8,73.5,74.5,100.0,100.0,11,0.18403838986120166,Low,Continue routine monitoring
+STU0321,2025-2026,2nd Semester,CPEM102,Differential Calculus,A,8,84.4,69.6,92.9,90.2,1,0.1836883348168461,Low,Continue routine monitoring
+STU0328,2025-2026,2nd Semester,CPEM101,Pre-Calculus,C,8,72.0,77.6,100.0,100.0,6,0.18245227364232397,Low,Continue routine monitoring
+STU0348,2025-2026,1st Semester,CPEM101,Pre-Calculus,B,8,71.6,86.6,92.9,93.1,10,0.18099896581531075,Low,Continue routine monitoring
+STU0040,2025-2026,2nd Semester,CPEM101,Pre-Calculus,B,8,84.6,72.3,93.3,81.4,1,0.17956311618644624,Low,Continue routine monitoring
+STU0076,2025-2026,2nd Semester,CPEM102,Differential Calculus,B,8,85.1,88.5,81.2,75.7,8,0.17373086159750856,Low,Continue routine monitoring
+STU0013,2025-2026,2nd Semester,CPEM102,Differential Calculus,D,8,70.6,77.4,100.0,97.9,5,0.17354934783989592,Low,Continue routine monitoring
+STU0178,2025-2026,2nd Semester,CPEM102,Differential Calculus,D,8,66.3,71.1,85.7,92.7,5,0.16768719906700194,Low,Continue routine monitoring
+STU0300,2025-2026,2nd Semester,CPEM101,Pre-Calculus,B,8,77.2,85.0,92.9,98.6,7,0.1671104913897643,Low,Continue routine monitoring
+STU0126,2025-2026,1st Semester,CPEM103,Integral Calculus,D,8,64.1,73.9,87.5,94.2,7,0.16633169121052596,Low,Continue routine monitoring
+STU0168,2025-2026,2nd Semester,CPEM101,Pre-Calculus,B,8,77.7,87.0,73.3,100.0,12,0.1650544656081857,Low,Continue routine monitoring
+STU0328,2025-2026,1st Semester,CPEM102,Differential Calculus,C,8,79.0,75.4,85.7,100.0,5,0.16415474220098228,Low,Continue routine monitoring
+STU0075,2025-2026,1st Semester,CPEM101,Pre-Calculus,B,8,63.8,78.3,93.8,87.1,2,0.162819165614613,Low,Continue routine monitoring
+STU0314,2025-2026,2nd Semester,CPEM101,Pre-Calculus,A,8,81.3,64.3,85.7,55.2,2,0.1609950616917447,Low,Continue routine monitoring
+STU0155,2025-2026,2nd Semester,CPEM102,Differential Calculus,B,8,68.1,82.1,92.9,100.0,4,0.1595162815934816,Low,Continue routine monitoring
+STU0092,2025-2026,2nd Semester,CPEM101,Pre-Calculus,C,8,65.6,75.6,93.8,100.0,6,0.15840488184566953,Low,Continue routine monitoring
+STU0342,2025-2026,1st Semester,CPEM102,Differential Calculus,C,8,78.4,72.1,100.0,88.3,8,0.15819225824795408,Low,Continue routine monitoring
+STU0358,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,81.5,73.5,100.0,100.0,8,0.15462152551444863,Low,Continue routine monitoring
+STU0229,2025-2026,1st Semester,CPEM102,Differential Calculus,A,8,62.6,69.1,87.5,100.0,5,0.15339438833324137,Low,Continue routine monitoring
+STU0119,2025-2026,1st Semester,CPEM103,Integral Calculus,B,8,89.2,79.8,85.7,87.0,6,0.1515411184466128,Low,Continue routine monitoring
+STU0076,2025-2026,1st Semester,CPEM101,Pre-Calculus,A,8,70.6,76.2,87.5,93.9,2,0.14720769437742226,Low,Continue routine monitoring
+STU0048,2025-2026,2nd Semester,CPEM101,Pre-Calculus,D,8,82.6,75.6,92.9,95.4,2,0.14006458288290832,Low,Continue routine monitoring
+STU0068,2025-2026,2nd Semester,CPEM103,Integral Calculus,A,8,70.1,70.4,93.8,100.0,9,0.13945913683133704,Low,Continue routine monitoring
+STU0148,2025-2026,2nd Semester,CPEM101,Pre-Calculus,C,8,77.3,83.2,73.3,100.0,6,0.1378895865333844,Low,Continue routine monitoring
+STU0183,2025-2026,2nd Semester,CPEM101,Pre-Calculus,B,8,50.0,76.1,92.9,94.9,7,0.13710932267874684,Low,Continue routine monitoring
+STU0340,2025-2026,2nd Semester,CPEM101,Pre-Calculus,D,8,68.1,54.7,87.5,82.3,4,0.1363642945934021,Low,Continue routine monitoring
+STU0305,2025-2026,2nd Semester,CPEM102,Differential Calculus,D,8,78.7,70.4,81.2,100.0,13,0.13378703554655513,Low,Continue routine monitoring
+STU0351,2025-2026,1st Semester,CPEM101,Pre-Calculus,B,8,82.4,77.0,87.5,78.0,5,0.12887514577976442,Low,Continue routine monitoring
+STU0016,2025-2026,2nd Semester,CPEM103,Integral Calculus,D,8,78.8,73.0,100.0,100.0,11,0.12606184912510462,Low,Continue routine monitoring
+STU0083,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,65.3,77.6,92.9,93.1,6,0.1185583618992263,Low,Continue routine monitoring
+STU0009,2025-2026,2nd Semester,CPEM101,Pre-Calculus,B,8,71.3,72.3,100.0,100.0,1,0.1104579116430555,Low,Continue routine monitoring
+STU0310,2025-2026,1st Semester,CPEM103,Integral Calculus,A,8,87.6,69.6,93.8,47.8,1,0.11020912770075426,Low,Continue routine monitoring
+STU0046,2025-2026,1st Semester,CPEM101,Pre-Calculus,C,8,73.2,75.2,75.0,100.0,5,0.10932838218057794,Low,Continue routine monitoring
+STU0108,2025-2026,2nd Semester,CPEM102,Differential Calculus,C,8,79.1,55.8,100.0,100.0,11,0.10590195831510445,Low,Continue routine monitoring
+STU0193,2025-2026,2nd Semester,CPEM103,Integral Calculus,D,8,59.6,80.8,80.0,100.0,8,0.10381695550070427,Low,Continue routine monitoring
+STU0156,2025-2026,1st Semester,CPEM102,Differential Calculus,B,8,81.1,81.1,93.3,83.7,2,0.09865445399595793,Low,Continue routine monitoring
+STU0340,2025-2026,1st Semester,CPEM101,Pre-Calculus,A,8,83.0,83.3,100.0,91.1,2,0.09748725878057009,Low,Continue routine monitoring
+STU0202,2025-2026,1st Semester,CPEM102,Differential Calculus,B,8,77.1,90.9,85.7,80.3,5,0.09728566192961093,Low,Continue routine monitoring
+STU0165,2025-2026,2nd Semester,CPEM102,Differential Calculus,C,8,79.9,99.7,93.8,95.1,8,0.09690794108994376,Low,Continue routine monitoring
+STU0274,2025-2026,1st Semester,CPEM102,Differential Calculus,C,8,76.6,86.4,75.0,64.1,2,0.09677727223383248,Low,Continue routine monitoring
+STU0111,2025-2026,1st Semester,CPEM102,Differential Calculus,B,8,71.0,66.1,87.5,73.8,10,0.09591656306556169,Low,Continue routine monitoring
+STU0276,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,82.8,79.1,93.8,95.0,6,0.09248120841585407,Low,Continue routine monitoring
+STU0253,2025-2026,2nd Semester,CPEM102,Differential Calculus,C,8,76.4,83.5,78.6,79.7,3,0.09152425984770396,Low,Continue routine monitoring
+STU0312,2025-2026,1st Semester,CPEM103,Integral Calculus,C,8,66.5,66.9,93.3,90.8,4,0.08960841329726832,Low,Continue routine monitoring
+STU0002,2025-2026,2nd Semester,CPEM101,Pre-Calculus,D,8,59.3,87.3,92.9,100.0,3,0.08812820389813886,Low,Continue routine monitoring
+STU0141,2025-2026,2nd Semester,CPEM103,Integral Calculus,A,8,71.8,73.0,92.9,100.0,5,0.08583981538942001,Low,Continue routine monitoring
+STU0120,2025-2026,1st Semester,CPEM101,Pre-Calculus,D,8,73.7,83.9,100.0,100.0,10,0.0802639796417543,Low,Continue routine monitoring
+STU0119,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,66.0,82.2,92.9,92.4,8,0.07882787772539339,Low,Continue routine monitoring
+STU0035,2025-2026,2nd Semester,CPEM101,Pre-Calculus,A,8,79.5,76.9,100.0,96.6,4,0.07689385507998397,Low,Continue routine monitoring
+STU0089,2025-2026,1st Semester,CPEM102,Differential Calculus,C,8,80.4,77.9,93.3,86.3,3,0.07657423503032804,Low,Continue routine monitoring
+STU0201,2025-2026,1st Semester,CPEM101,Pre-Calculus,C,8,70.6,78.9,93.3,97.0,9,0.07547326353382226,Low,Continue routine monitoring
+STU0268,2025-2026,1st Semester,CPEM103,Integral Calculus,A,8,72.6,75.0,100.0,97.0,7,0.07387808738435128,Low,Continue routine monitoring
+STU0079,2025-2026,1st Semester,CPEM101,Pre-Calculus,A,8,93.5,76.6,78.6,80.2,2,0.07359554851387617,Low,Continue routine monitoring
+STU0225,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,71.3,66.5,93.8,91.9,10,0.07128733237708353,Low,Continue routine monitoring
+STU0149,2025-2026,2nd Semester,CPEM101,Pre-Calculus,D,8,83.6,75.8,73.3,86.2,3,0.07087399309814688,Low,Continue routine monitoring
+STU0081,2025-2026,1st Semester,CPEM101,Pre-Calculus,C,8,78.5,80.6,100.0,98.9,5,0.06995734054434889,Low,Continue routine monitoring
+STU0279,2025-2026,2nd Semester,CPEM102,Differential Calculus,A,8,82.9,91.5,92.9,80.4,6,0.0695638656731243,Low,Continue routine monitoring
+STU0272,2025-2026,2nd Semester,CPEM102,Differential Calculus,D,8,64.5,84.0,100.0,77.3,2,0.06593871044849471,Low,Continue routine monitoring
+STU0168,2025-2026,2nd Semester,CPEM102,Differential Calculus,A,8,92.5,82.2,92.9,82.4,8,0.0632662369028982,Low,Continue routine monitoring
+STU0266,2025-2026,2nd Semester,CPEM102,Differential Calculus,B,8,55.8,76.0,81.2,94.9,7,0.06169069020579033,Low,Continue routine monitoring
+STU0186,2025-2026,1st Semester,CPEM102,Differential Calculus,C,8,75.4,90.0,87.5,91.9,3,0.0581047662544623,Low,Continue routine monitoring
+STU0028,2025-2026,2nd Semester,CPEM101,Pre-Calculus,D,8,73.3,88.9,78.6,100.0,4,0.05371735076826558,Low,Continue routine monitoring
+STU0007,2025-2026,2nd Semester,CPEM101,Pre-Calculus,A,8,90.0,80.3,80.0,99.7,10,0.05350568663991782,Low,Continue routine monitoring
+STU0177,2025-2026,1st Semester,CPEM103,Integral Calculus,A,8,87.3,79.5,93.3,87.7,4,0.053501288327961576,Low,Continue routine monitoring
+STU0226,2025-2026,2nd Semester,CPEM103,Integral Calculus,D,8,87.5,77.3,87.5,100.0,5,0.05182534727111199,Low,Continue routine monitoring
+STU0287,2025-2026,2nd Semester,CPEM103,Integral Calculus,C,8,62.7,74.8,93.8,83.6,3,0.05015350493328852,Low,Continue routine monitoring
+STU0089,2025-2026,1st Semester,CPEM101,Pre-Calculus,C,8,77.3,65.7,100.0,89.7,5,0.04826149943766124,Low,Continue routine monitoring
+STU0003,2025-2026,1st Semester,CPEM103,Integral Calculus,D,8,85.5,85.0,92.9,92.9,6,0.04792175046410542,Low,Continue routine monitoring
+STU0184,2025-2026,1st Semester,CPEM102,Differential Calculus,A,8,78.8,98.3,93.3,81.7,7,0.0472026498402201,Low,Continue routine monitoring
+STU0094,2025-2026,1st Semester,CPEM103,Integral Calculus,C,8,74.1,82.3,93.3,100.0,9,0.04720196250041329,Low,Continue routine monitoring
+STU0252,2025-2026,1st Semester,CPEM101,Pre-Calculus,D,8,88.2,67.3,100.0,77.0,2,0.04615918461436108,Low,Continue routine monitoring
+STU0324,2025-2026,1st Semester,CPEM102,Differential Calculus,C,8,82.6,80.4,78.6,88.2,3,0.045775105554522,Low,Continue routine monitoring
+STU0167,2025-2026,1st Semester,CPEM103,Integral Calculus,B,8,79.1,78.5,100.0,93.7,4,0.04507654457941026,Low,Continue routine monitoring
+STU0301,2025-2026,2nd Semester,CPEM103,Integral Calculus,A,8,91.3,64.4,80.0,78.6,4,0.04501531457068853,Low,Continue routine monitoring
+STU0348,2025-2026,2nd Semester,CPEM102,Differential Calculus,D,8,76.8,76.6,81.2,92.5,3,0.04161612716357694,Low,Continue routine monitoring
+STU0124,2025-2026,1st Semester,CPEM102,Differential Calculus,D,8,100.0,83.5,93.8,90.6,7,0.040768439636149865,Low,Continue routine monitoring
+STU0035,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,66.5,72.7,81.2,100.0,3,0.04002369171096761,Low,Continue routine monitoring
+STU0028,2025-2026,1st Semester,CPEM101,Pre-Calculus,D,8,78.2,70.0,87.5,100.0,5,0.037932216332278265,Low,Continue routine monitoring
+STU0228,2025-2026,1st Semester,CPEM101,Pre-Calculus,D,8,94.8,82.4,85.7,79.5,5,0.036921291440407004,Low,Continue routine monitoring
+STU0058,2025-2026,2nd Semester,CPEM102,Differential Calculus,B,8,75.7,100.0,87.5,91.8,5,0.03689227159522767,Low,Continue routine monitoring
+STU0345,2025-2026,2nd Semester,CPEM103,Integral Calculus,A,8,68.6,92.8,92.9,91.5,8,0.036826382758098505,Low,Continue routine monitoring
+STU0108,2025-2026,1st Semester,CPEM101,Pre-Calculus,A,8,82.4,84.1,100.0,100.0,4,0.03351984913597224,Low,Continue routine monitoring
+STU0191,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,72.8,75.2,100.0,79.4,4,0.03330624192314073,Low,Continue routine monitoring
+STU0323,2025-2026,1st Semester,CPEM102,Differential Calculus,A,8,73.8,84.4,100.0,96.8,10,0.031205255247519766,Low,Continue routine monitoring
+STU0348,2025-2026,1st Semester,CPEM103,Integral Calculus,A,8,76.0,78.6,92.9,87.6,1,0.03102500182547376,Low,Continue routine monitoring
+STU0037,2025-2026,2nd Semester,CPEM102,Differential Calculus,D,8,75.3,88.8,100.0,86.4,5,0.030389912737065608,Low,Continue routine monitoring
+STU0344,2025-2026,2nd Semester,CPEM102,Differential Calculus,A,8,82.7,83.0,100.0,94.3,5,0.028859579292236155,Low,Continue routine monitoring
+STU0048,2025-2026,2nd Semester,CPEM102,Differential Calculus,C,8,95.9,91.2,100.0,100.0,9,0.02618741449068563,Low,Continue routine monitoring
+STU0190,2025-2026,1st Semester,CPEM102,Differential Calculus,D,8,84.5,88.2,100.0,85.2,7,0.025656946876174844,Low,Continue routine monitoring
+STU0031,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,72.5,81.3,81.2,74.9,0,0.025200515136672017,Low,Continue routine monitoring
+STU0117,2025-2026,2nd Semester,CPEM102,Differential Calculus,D,8,93.0,80.2,92.9,100.0,7,0.025113253402295362,Low,Continue routine monitoring
+STU0155,2025-2026,1st Semester,CPEM102,Differential Calculus,B,8,86.0,67.9,93.8,96.9,7,0.025088859188750225,Low,Continue routine monitoring
+STU0325,2025-2026,1st Semester,CPEM102,Differential Calculus,B,8,93.2,81.0,92.9,84.6,5,0.023751258532588467,Low,Continue routine monitoring
+STU0315,2025-2026,2nd Semester,CPEM102,Differential Calculus,B,8,84.1,81.9,92.9,100.0,9,0.023505798801899246,Low,Continue routine monitoring
+STU0012,2025-2026,1st Semester,CPEM103,Integral Calculus,B,8,81.8,90.8,100.0,91.4,7,0.022441829218326343,Low,Continue routine monitoring
+STU0124,2025-2026,1st Semester,CPEM101,Pre-Calculus,B,8,86.7,86.2,80.0,84.5,6,0.021879342884656414,Low,Continue routine monitoring
+STU0012,2025-2026,1st Semester,CPEM101,Pre-Calculus,B,8,92.4,87.2,100.0,96.3,7,0.021841776866562926,Low,Continue routine monitoring
+STU0308,2025-2026,1st Semester,CPEM101,Pre-Calculus,C,8,92.0,88.6,92.9,97.8,4,0.021412150856123538,Low,Continue routine monitoring
+STU0125,2025-2026,1st Semester,CPEM101,Pre-Calculus,C,8,92.4,76.7,86.7,82.8,5,0.020477736874945942,Low,Continue routine monitoring
+STU0156,2025-2026,2nd Semester,CPEM102,Differential Calculus,B,8,79.1,94.8,100.0,81.6,4,0.020407382051370705,Low,Continue routine monitoring
+STU0350,2025-2026,1st Semester,CPEM103,Integral Calculus,B,8,89.3,80.5,87.5,89.5,3,0.019450237638871107,Low,Continue routine monitoring
+STU0120,2025-2026,2nd Semester,CPEM103,Integral Calculus,D,8,80.2,70.5,92.9,100.0,10,0.016973705223348835,Low,Continue routine monitoring
+STU0060,2025-2026,2nd Semester,CPEM102,Differential Calculus,D,8,85.5,92.0,87.5,99.3,6,0.01642441123651401,Low,Continue routine monitoring
+STU0311,2025-2026,1st Semester,CPEM101,Pre-Calculus,C,8,93.6,91.8,100.0,87.5,5,0.016220921429519468,Low,Continue routine monitoring
+STU0257,2025-2026,2nd Semester,CPEM101,Pre-Calculus,C,8,81.4,80.0,87.5,92.1,1,0.014046994036544136,Low,Continue routine monitoring
+STU0311,2025-2026,2nd Semester,CPEM103,Integral Calculus,A,8,68.7,93.4,93.8,91.1,6,0.013313420397431231,Low,Continue routine monitoring
+STU0279,2025-2026,2nd Semester,CPEM101,Pre-Calculus,B,8,88.7,81.4,92.9,87.9,5,0.012734741150343624,Low,Continue routine monitoring
+STU0147,2025-2026,2nd Semester,CPEM101,Pre-Calculus,A,8,95.1,81.4,93.8,99.2,12,0.011816337208891149,Low,Continue routine monitoring
+STU0140,2025-2026,2nd Semester,CPEM103,Integral Calculus,B,8,78.2,92.7,80.0,70.9,1,0.010625561264950317,Low,Continue routine monitoring
+STU0058,2025-2026,1st Semester,CPEM102,Differential Calculus,D,8,90.5,85.5,100.0,89.2,3,0.009271271566945924,Low,Continue routine monitoring
+STU0325,2025-2026,1st Semester,CPEM103,Integral Calculus,D,8,92.1,79.2,87.5,100.0,6,0.008904110194092589,Low,Continue routine monitoring
+STU0226,2025-2026,1st Semester,CPEM101,Pre-Calculus,B,8,77.9,90.7,100.0,99.7,10,0.008842984587378287,Low,Continue routine monitoring
+STU0218,2025-2026,1st Semester,CPEM101,Pre-Calculus,C,8,100.0,86.0,100.0,85.4,7,0.008701261635791524,Low,Continue routine monitoring
+STU0218,2025-2026,1st Semester,CPEM102,Differential Calculus,D,8,72.6,91.7,93.3,100.0,3,0.00847045305536323,Low,Continue routine monitoring
+STU0058,2025-2026,2nd Semester,CPEM101,Pre-Calculus,A,8,84.8,86.8,100.0,87.7,6,0.008372523347452775,Low,Continue routine monitoring
+STU0253,2025-2026,2nd Semester,CPEM101,Pre-Calculus,D,8,88.5,90.4,87.5,85.1,5,0.007608584684266953,Low,Continue routine monitoring
+STU0227,2025-2026,1st Semester,CPEM103,Integral Calculus,C,8,83.5,78.9,80.0,85.6,5,0.005938353477403638,Low,Continue routine monitoring
+STU0268,2025-2026,2nd Semester,CPEM103,Integral Calculus,C,8,68.4,88.9,93.8,96.9,5,0.004563739384439332,Low,Continue routine monitoring
+STU0283,2025-2026,2nd Semester,CPEM103,Integral Calculus,D,8,88.4,96.5,100.0,100.0,11,0.004395635281940998,Low,Continue routine monitoring
+STU0218,2025-2026,2nd Semester,CPEM101,Pre-Calculus,A,8,78.7,90.9,100.0,97.8,8,0.0036140627250368955,Low,Continue routine monitoring
+STU0226,2025-2026,2nd Semester,CPEM101,Pre-Calculus,B,8,83.9,97.2,100.0,100.0,2,0.003547890884945115,Low,Continue routine monitoring
+STU0245,2025-2026,1st Semester,CPEM101,Pre-Calculus,A,8,100.0,100.0,81.2,65.8,3,0.003121703354389257,Low,Continue routine monitoring
+STU0170,2025-2026,2nd Semester,CPEM101,Pre-Calculus,B,8,100.0,92.8,85.7,100.0,11,0.0015985076766452048,Low,Continue routine monitoring
+STU0345,2025-2026,2nd Semester,CPEM101,Pre-Calculus,D,8,100.0,93.4,100.0,97.6,6,0.0012073147368345768,Low,Continue routine monitoring

@@ -1,0 +1,91 @@
+Model,Feature,Importance,Method
+Logistic Regression,num__Prelim_Score,1.07770871714954,Absolute standardized coefficient
+Logistic Regression,num__Quiz_Average,1.028082230122704,Absolute standardized coefficient
+Logistic Regression,num__Current_Grade,0.5807308422445328,Absolute standardized coefficient
+Logistic Regression,num__Learning_Material_Access,0.579323372358973,Absolute standardized coefficient
+Logistic Regression,num__Quiz_Performance_Trend,0.49532300268197293,Absolute standardized coefficient
+Logistic Regression,num__Assignment_Submission_Rate,0.34734125220045475,Absolute standardized coefficient
+Logistic Regression,num__Attendance_Rate,0.32365529925508785,Absolute standardized coefficient
+Logistic Regression,cat__Program_BS Electrical Engineering,0.31156719201677935,Absolute standardized coefficient
+Logistic Regression,cat__Semester_2nd Semester,0.24152748681356054,Absolute standardized coefficient
+Logistic Regression,num__Late_Submission_Count,0.22692244882767812,Absolute standardized coefficient
+Logistic Regression,cat__Program_BS Electronics Engineering,0.22509057401718832,Absolute standardized coefficient
+Logistic Regression,cat__Course_Name_Integral Calculus,0.21975031211789883,Absolute standardized coefficient
+Logistic Regression,cat__Semester_1st Semester,0.2093361344788614,Absolute standardized coefficient
+Logistic Regression,num__Classes_Attended_To_Date,0.1996411067986412,Absolute standardized coefficient
+Logistic Regression,cat__Course_Name_Pre-Calculus,0.1692631989294091,Absolute standardized coefficient
+Logistic Regression,num__Total_Classes_To_Date,0.14977072717988718,Absolute standardized coefficient
+Logistic Regression,num__Absence_Count_To_Date,0.14827053470355614,Absolute standardized coefficient
+Logistic Regression,num__Assignment_Average,0.14544833647784192,Absolute standardized coefficient
+Logistic Regression,num__Academic_Performance_Decline,0.1335077472194515,Absolute standardized coefficient
+Logistic Regression,cat__Program_BS Computer Engineering,0.11866797033428994,Absolute standardized coefficient
+Logistic Regression,num__Video_Engagement_Time_Minutes,0.09809362141585942,Absolute standardized coefficient
+Logistic Regression,num__Login_Frequency,0.062207739538154026,Absolute standardized coefficient
+Logistic Regression,num__Tardiness_Count_To_Date,0.05962636887472348,Absolute standardized coefficient
+Logistic Regression,num__Discussion_Forum_Activity,0.05508222775171335,Absolute standardized coefficient
+Logistic Regression,num__Total_LMS_Time_Minutes,0.05270817212059782,Absolute standardized coefficient
+Logistic Regression,cat__Course_Name_Differential Calculus,0.018295760853791455,Absolute standardized coefficient
+Logistic Regression,num__Learning_Activity_Gap_Days,0.017381445797238364,Absolute standardized coefficient
+Logistic Regression,num__Assessment_Completion_Rate,0.015980918287580772,Absolute standardized coefficient
+Logistic Regression,num__Activity_Completion_Rate,0.015980918287580772,Absolute standardized coefficient
+Logistic Regression,num__Attendance_Trend,0.013707910754478785,Absolute standardized coefficient
+Random Forest,num__Prelim_Score,0.16375630149275183,Tree feature importance
+Random Forest,num__Current_Grade,0.1444666631825279,Tree feature importance
+Random Forest,num__Quiz_Average,0.11547329929594503,Tree feature importance
+Random Forest,num__Academic_Performance_Decline,0.09213173854086021,Tree feature importance
+Random Forest,num__Assignment_Average,0.08297721875870001,Tree feature importance
+Random Forest,num__Assessment_Completion_Rate,0.04512307075310005,Tree feature importance
+Random Forest,num__Activity_Completion_Rate,0.04024385781442014,Tree feature importance
+Random Forest,num__Quiz_Performance_Trend,0.03731880757482793,Tree feature importance
+Random Forest,num__Assignment_Submission_Rate,0.034793346300191236,Tree feature importance
+Random Forest,num__Learning_Material_Access,0.02873208804844272,Tree feature importance
+Random Forest,num__Attendance_Rate,0.023778835751624545,Tree feature importance
+Random Forest,num__Attendance_Trend,0.023775488289233607,Tree feature importance
+Random Forest,num__Total_LMS_Time_Minutes,0.02273715461364963,Tree feature importance
+Random Forest,num__Video_Engagement_Time_Minutes,0.020889462971797224,Tree feature importance
+Random Forest,num__Login_Frequency,0.0201546847231221,Tree feature importance
+Random Forest,num__Classes_Attended_To_Date,0.020125018106244313,Tree feature importance
+Random Forest,num__Absence_Count_To_Date,0.014805424668572903,Tree feature importance
+Random Forest,num__Learning_Activity_Gap_Days,0.010086378952769114,Tree feature importance
+Random Forest,num__Discussion_Forum_Activity,0.010049169081157808,Tree feature importance
+Random Forest,num__Total_Classes_To_Date,0.0067395673753959245,Tree feature importance
+Random Forest,num__Late_Submission_Count,0.006525242779445295,Tree feature importance
+Random Forest,num__Tardiness_Count_To_Date,0.006186445002488553,Tree feature importance
+Random Forest,cat__Course_Name_Integral Calculus,0.0045102884611341295,Tree feature importance
+Random Forest,cat__Semester_1st Semester,0.004319063940670858,Tree feature importance
+Random Forest,cat__Program_BS Computer Engineering,0.00431584027215666,Tree feature importance
+Random Forest,cat__Semester_2nd Semester,0.003918604284103109,Tree feature importance
+Random Forest,cat__Course_Name_Pre-Calculus,0.003332911968399868,Tree feature importance
+Random Forest,cat__Program_BS Electronics Engineering,0.0031718545885574857,Tree feature importance
+Random Forest,cat__Program_BS Electrical Engineering,0.0028632143785675152,Tree feature importance
+Random Forest,cat__Course_Name_Differential Calculus,0.002698958029142296,Tree feature importance
+XGBoost,num__Prelim_Score,0.13782989978790283,Tree feature importance
+XGBoost,num__Current_Grade,0.11405013501644135,Tree feature importance
+XGBoost,num__Classes_Attended_To_Date,0.05125752091407776,Tree feature importance
+XGBoost,num__Academic_Performance_Decline,0.0485415980219841,Tree feature importance
+XGBoost,cat__Semester_2nd Semester,0.04514694958925247,Tree feature importance
+XGBoost,num__Quiz_Average,0.04355603829026222,Tree feature importance
+XGBoost,num__Learning_Material_Access,0.03408123180270195,Tree feature importance
+XGBoost,num__Assignment_Average,0.032907385379076004,Tree feature importance
+XGBoost,num__Assessment_Completion_Rate,0.031705524772405624,Tree feature importance
+XGBoost,num__Assignment_Submission_Rate,0.030919771641492844,Tree feature importance
+XGBoost,num__Activity_Completion_Rate,0.029626168310642242,Tree feature importance
+XGBoost,num__Login_Frequency,0.02946299873292446,Tree feature importance
+XGBoost,num__Quiz_Performance_Trend,0.027705689892172813,Tree feature importance
+XGBoost,cat__Program_BS Computer Engineering,0.026825126260519028,Tree feature importance
+XGBoost,num__Tardiness_Count_To_Date,0.026301352307200432,Tree feature importance
+XGBoost,num__Discussion_Forum_Activity,0.02425074391067028,Tree feature importance
+XGBoost,num__Total_LMS_Time_Minutes,0.024072038009762764,Tree feature importance
+XGBoost,cat__Semester_1st Semester,0.02310473844408989,Tree feature importance
+XGBoost,num__Attendance_Rate,0.021885327994823456,Tree feature importance
+XGBoost,num__Attendance_Trend,0.021642057225108147,Tree feature importance
+XGBoost,num__Video_Engagement_Time_Minutes,0.021410129964351654,Tree feature importance
+XGBoost,num__Learning_Activity_Gap_Days,0.020417824387550354,Tree feature importance
+XGBoost,cat__Program_BS Electrical Engineering,0.01997360959649086,Tree feature importance
+XGBoost,num__Late_Submission_Count,0.019959306344389915,Tree feature importance
+XGBoost,num__Absence_Count_To_Date,0.017568042501807213,Tree feature importance
+XGBoost,cat__Program_BS Electronics Engineering,0.0168441329151392,Tree feature importance
+XGBoost,cat__Course_Name_Pre-Calculus,0.016729284077882767,Tree feature importance
+XGBoost,num__Total_Classes_To_Date,0.016678152605891228,Tree feature importance
+XGBoost,cat__Course_Name_Integral Calculus,0.016392458230257034,Tree feature importance
+XGBoost,cat__Course_Name_Differential Calculus,0.009154664352536201,Tree feature importance
