@@ -91,4 +91,4 @@ with tab2:
     st.plotly_chart(fig, use_container_width=True)
     st.caption("SHAP values show each feature's contribution to model output. The global chart ranks average absolute contribution; it does not imply causation.")
 
-st.warning("Research-use limitation: the underlying records and labels are synthetic. Risk bands are provisional. Validate calibration, thresholds, fairness, and intervention utility with authorized real institutional data before deployment.")
+#st.warning("Research-use limitation: the underlying records and labels are synthetic. Risk bands are provisional. Validate calibration, thresholds, fairness, and intervention utility with authorized real institutional data before deployment.")
